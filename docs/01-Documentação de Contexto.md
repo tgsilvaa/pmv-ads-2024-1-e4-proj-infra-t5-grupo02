@@ -30,3 +30,5 @@ Várias são as pessoas que podem se beneficiar significativamente de uma plataf
 ## Referência
 
 [1]https://g1.globo.com/economia/noticia/2023/01/20/aluguel-de-microapartamentos-rende-mais-que-imoveis-maiores-mas-ainda-perde-para-selic.ghtml 
+
+teste
